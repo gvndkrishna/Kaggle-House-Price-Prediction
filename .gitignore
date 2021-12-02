@@ -1,2 +1,8 @@
 
 Data/oldprediction.csv
+catboost_info/time_left.tsv
+catboost_info/learn_error.tsv
+catboost_info/tmp/cat_feature_index.9d460f81-6085604-80836e91-9c448f33.tmp
+catboost_info/learn/events.out.tfevents
+catboost_info/catboost_training.json
+catboost_info/tmp/cat_feature_index.5d7fc226-b63f27f8-f6dfd2be-460fb90f.tmp
